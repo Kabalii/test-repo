@@ -9,7 +9,7 @@ import java.io.*;
 * user selects the file with pop up fileDialog and necessary information is shown on the frame.
 *
 *
-* @author  Udhav Verma
+* @author  Udhav Verma.
 * @version 1.0
 * @since   30-03-2018
 */
